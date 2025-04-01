@@ -42,7 +42,7 @@ int main(int argc, char *argv[]) {
         }
     }
 
-    // Validate and process the range inputs
+    // Validate and process the range inputs,
     if (!range.empty()) {
         std::cout << "Range specified: " << range << std::endl;
         // Add your logic to handle the range
